@@ -1,5 +1,11 @@
 # Jogo-da-memoria
-<h1>Jogo da memoria feito atraves de HTML, CSS e JavaScript.</h1>
+<p>Projeto de uma página que contem um jogo da memoria,
+  com imagens que representam algumas tecnologias usadas por nós
+  programadores, á pagina foi criada atráves de HTML, CSS e JavaScript,
+  o jogo se baseia no conceito simple do jogo da memoria de encontrar a carta par,
+  ao completar o jogo aparecerá um outra tela parabenizando o usuário por ter completado o jogo,
+  e abaixo irá aparecer um botão para iniciar o jogo novamente e então as cartas serão embaralhadas.
+  Abaixo vocês irão ver alguns exemplos com imgagens.</p>
 
 <h2>Tela de inicio do jogo.</h2>
 
