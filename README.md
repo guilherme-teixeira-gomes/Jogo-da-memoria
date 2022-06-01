@@ -5,7 +5,7 @@
   o jogo se baseia no conceito simple do jogo da memoria de encontrar a carta par,
   ao completar o jogo aparecerá um outra tela parabenizando o usuário por ter completado o jogo,
   e abaixo irá aparecer um botão para iniciar o jogo novamente e então as cartas serão embaralhadas.
-  Abaixo vocês irão ver alguns exemplos com imgagens.</p>
+  Abaixo vocês irão ver alguns exemplos com imagens.</p>
 
 <h2>Tela de inicio do jogo.</h2>
 
